@@ -2,4 +2,5 @@
 #Excel
 #Python
 #SQL
+#Automatisasi
 
