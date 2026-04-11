@@ -1,5 +1,5 @@
 #international-business_sales-python
-##Analisis mendalam terhadap 100.000 transaksi penjualan global mencakup 185 negara, 7 region, dan 12 kategori produk selama periode 2010–2017.
+##Analisis mendalam terhadap 100.000 transaksi penjualan global mencakup 185 negara, 7 region, dan 12 kategori produk selama periode 2010–2017. tetapi 2017 hanya mencakup data Januari–Juli (setengah tahun)
 #tools: Python,Pandas, Numpy, Matplotlib
 
 ![alt text](https://github.com/arisetiawan2003-alt/Project-Data-Analys/blob/main/International-Business_Sales-Python/chart10_dashboard.png?raw=true)
