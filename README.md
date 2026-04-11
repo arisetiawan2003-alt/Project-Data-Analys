@@ -13,3 +13,5 @@
 ##Q1 (Jan–Mar) dan Q2 (Apr–Jun) adalah periode paling aktif — revenue dan volume order mencapai puncak di bulan Maret, Mei, dan Juli.
 ##Q3–Q4 (Agustus–Desember) mengalami penurunan volume secara konsisten, terutama September yang menjadi titik terendah.
 ##Strategi promosi dan stok sebaiknya difokuskan di semester pertama untuk memaksimalkan momentum pasar
+
+![alt text](?raw=true)
