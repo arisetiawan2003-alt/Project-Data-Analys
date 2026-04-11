@@ -1,4 +1,4 @@
-# international-business_sales-python
+# 📁international-business_sales-python
 ## Analisis mendalam terhadap 100.000 transaksi penjualan global mencakup 185 negara, 7 region, dan 12 kategori produk selama periode 2010–2017. tetapi 2017 hanya mencakup data Januari–Juli (setengah tahun)
 # tools: Python,Pandas, Numpy, Matplotlib
 ## CHART 1 KPI YEARLY
@@ -27,5 +27,6 @@
 ## Household & Office Supplies mendominasi revenue (masing-masing 20%), namun margin-nya di bawah rata-rata (24.8% dan 19.4%) volume driver tapi bukan profit driver
 ## Meat adalah kategori terlemah dari sisi margin (13.56%) — perlu evaluasi strategi pricing atau cost reduction.
 ## Fruits berkontribusi sangat kecil (0.28% revenue) dan margin di bawah rata-rata, kandidat untuk dipertimbangkan ulang dalam portofolio produk.
-## ================================================================================================================================
+## ===============================================================================
+## 📁Project-ecommerce-sales
 ![alt text](?raw=true)
