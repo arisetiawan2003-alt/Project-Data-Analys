@@ -29,4 +29,6 @@
 ## Fruits berkontribusi sangat kecil (0.28% revenue) dan margin di bawah rata-rata, kandidat untuk dipertimbangkan ulang dalam portofolio produk.
 ## ===============================================================================
 ## 📁Project-ecommerce-sales
+## Dataset ini adalah laporan penjualan Amazon India untuk kategori fashion & apparel (pakaian, aksesoris, parfum). Data mencakup periode April–Juni 2022 dengan total 110.489 transaksi dan revenue 71.6 juta INR.Bisnis ini menjual produk fashion secara online melalui platform Amazon.in, dengan dua model fulfillment: dikirim langsung oleh Amazon (FBA  Fulfillment by Amazon) atau oleh Merchant (seller) sendiri. Hampir semua transaksi adalah B2C (konsumen perorangan), dengan sebagian kecil B2B (pembelian bisnis).
+## Tantangan utama bisnis ini adalah bisnis ini mengalami penurunan sebesar 18.45% dalam waktu 3 bulan. Produk andalan adalah T-shirt dan Shirt yang menyumbang 77% dari total revenue.
 ![alt text](?raw=true)
