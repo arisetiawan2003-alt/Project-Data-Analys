@@ -21,4 +21,9 @@
 ## 🇺🇸 North America adalah region paling underperforming hanya 2.21% profit share dengan volume order terendah (2.133), padahal secara kapasitas pasar seharusnya jauh lebih besar. Ini mengindikasikan penetrasi pasar yang sangat rendah atau pembatasan distribusi di wilayah tersebut.
 ## Margin profit konsisten di 34% di semua region  tidak ada region yang secara struktural lebih efisien dari yang lain. Perbedaan hasil murni dari volume penjualan, bukan efisiensi operasional
 
-![alt tetx](?raw=true)
+![alt tetx](https://github.com/arisetiawan2003-alt/Project-Data-Analys/blob/main/International-Business_Sales-Python/chart3_item_type.png?raw=true)
+## Clothes memiliki profit margin tertinggi (67.20%)  hampir 2x lipat rata-rata keseluruhan (34.33%), namun revenue-nya relatif kecil (3.42% dari total). Ini peluang scaling yang belum dioptimalkan.
+## Cosmetics adalah produk paling menguntungkan secara absolut ($728.94B profit) dengan margin sehat 39.77%
+## Household & Office Supplies mendominasi revenue (masing-masing 20%), namun margin-nya di bawah rata-rata (24.8% dan 19.4%) volume driver tapi bukan profit driver
+## Meat adalah kategori terlemah dari sisi margin (13.56%) — perlu evaluasi strategi pricing atau cost reduction.
+## Fruits berkontribusi sangat kecil (0.28% revenue) dan margin di bawah rata-rata, kandidat untuk dipertimbangkan ulang dalam portofolio produk.
