@@ -33,5 +33,5 @@
 ## Tantangan utama bisnis ini adalah bisnis ini mengalami penurunan sebesar 18.45% dalam waktu 3 bulan. 
 ## Produk andalan adalah T-shirt dan Shirt yang menyumbang 77% dari total revenue.
 ## Berikut adalah business insight report sales Amazon
-[alt text](https://github.com/arisetiawan2003-alt/Project-Data-Analys/blob/main/Project-Ecommerce-Sales/Screenshot%202026-04-11%20150746.png?raw=true)
+![alt text](https://github.com/arisetiawan2003-alt/Project-Data-Analys/blob/main/Project-Ecommerce-Sales/Screenshot%202026-04-11%20150746.png?raw=true)
 [Amazon Business Insight Report.pdf](https://github.com/arisetiawan2003-alt/Project-Data-Analys/blob/d757e56aa62e3eb05ebad1ae828265205e27b714/Project-Ecommerce-Sales/Amazon%20Business%20Insight%20Report%20.pdf) *Klik untuk selengkapnya*
