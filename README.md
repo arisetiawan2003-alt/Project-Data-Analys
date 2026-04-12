@@ -40,7 +40,7 @@
 ## 📁Project Analysis sales SQL
 ## [File_Project_SQL](https://github.com/arisetiawan2003-alt/Project-Data-Analys/blob/main/project-Analysis-Sales-SQL/belajar%20sql.sql) *Klik Link Untuk Melihat*
 ## Struktur Database SQL
-![alt text](https://github.com/arisetiawan2003-alt/Project-Data-Analys/blob/main/project-Analysis-Sales-SQL/erd_ecommerce.png?raw=true)
+![alt text](https://github.com/arisetiawan2003-alt/Project-Data-Analys/blob/main/project-Analysis-Sales-SQL/erd_belajar_sql.png?raw=true)
 ## ERD (Entity Relationship Diagram) tersebut menggambarkan struktur database untuk proyek e-commerce yang telah dinormalisasi menjadi 6 tabel.
 ## Inti Data: Tabel orders, Tabel ini adalah pusat dari diagram (fakta transaksi). Tabel ini mencatat detail pesanan seperti jumlah barang, total harga, rating, ulasan, dan tanggal pesanan. Tabel ini menghubungkan semua entitas lainnya melalui Foreign Keys (FK).
 ## Dimensi Produk (products, categories, brands) Bagian ini mengelola informasi barang yang dijual:products: Menyimpan nama produk dan harga. Bergantung pada kategori dan brand.categories: Mengelompokkan produk (misalnya: Elektronik, Pakaian). brands: Menyimpan informasi merek dari produk tersebut.
