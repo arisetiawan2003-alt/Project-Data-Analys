@@ -45,5 +45,10 @@
 ## Dimensi Produk (products, categories, brands) Bagian ini mengelola informasi barang yang dijual:products: Menyimpan nama produk dan harga. Bergantung pada kategori dan brand.categories: Mengelompokkan produk (misalnya: Elektronik, Pakaian). brands: Menyimpan informasi merek dari produk tersebut.
 ## Dimensi Pendukung (platforms, cities) platforms: Mencatat asal transaksi (misalnya: Shopee, Tokopedia, atau Website sendiri).cities: Mencatat lokasi atau kota tempat pesanan dilakukan/dikirim.
 ## Ringkasan Relasi,Semua relasi dalam diagram ini bersifat 1-to-N (One-to-Many), yang ditunjukkan oleh garis putus-putus. Artinya:Satu kategori bisa memiliki banyak produk.Satu brand bisa memiliki banyak produk.Satu produk, satu platform, dan satu kota bisa muncul di banyak baris pesanan (orders).Secara keseluruhan, struktur ini sangat baik untuk analisis data karena memisahkan data master (seperti nama kota atau kategori) dari data transaksi, sehingga menghindari redundansi data.
+## ==================================
+## Project Otomatisasi Penjualan
+## 📁Otomatisasi Analysis-report-sales
+## Berikut adalah flowchart otomatisasi laporan Penjualan
 
-![alt text](?raw=true)
+![alt text](https://github.com/arisetiawan2003-alt/Project-Data-Analys/blob/main/Analysis-Report-Sales-Automated/flowchart_alur_utama.png?raw=true)
+## Flowchart Alur Utama — dari scheduler → MySQL → kalkulasi → PDF → Gmail, lengkap dengan decision diamond
