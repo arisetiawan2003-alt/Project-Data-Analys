@@ -52,3 +52,6 @@
 
 ![alt text](https://github.com/arisetiawan2003-alt/Project-Data-Analys/blob/main/Analysis-Report-Sales-Automated/flowchart_alur_utama.png?raw=true)
 ## Flowchart Alur Utama — dari scheduler → MySQL → kalkulasi → PDF → Gmail, lengkap dengan decision diamond
+![alt text](https://github.com/arisetiawan2003-alt/Project-Data-Analys/blob/main/Analysis-Report-Sales-Automated/flowchart_output_pdf_email.png?raw=true)
+## Struktur Output PDF-Gmail
+
