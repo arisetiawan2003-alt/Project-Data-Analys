@@ -55,3 +55,4 @@
 ![alt text](https://github.com/arisetiawan2003-alt/Project-Data-Analys/blob/main/Analysis-Report-Sales-Automated/flowchart_output_pdf_email.png?raw=true)
 ## Struktur Output PDF-Gmail
 
+[Business_Insight_Automated_Gmail](https://github.com/arisetiawan2003-alt/Project-Data-Analys/blob/main/Analysis-Report-Sales-Automated/laporan_penjualan_2026_03.pdf) *Klik link untuk melihat hasil laporannya*
