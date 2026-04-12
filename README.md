@@ -37,7 +37,8 @@
 [Amazon Business Insight Report.pdf](https://github.com/arisetiawan2003-alt/Project-Data-Analys/blob/d757e56aa62e3eb05ebad1ae828265205e27b714/Project-Ecommerce-Sales/Amazon%20Business%20Insight%20Report%20.pdf) *Klik untuk selengkapnya*
 
 ## =============================================
-## 📁Project Analysis sales SQL 
+## 📁Project Analysis sales SQL
+## [File_Project_SQL](https://github.com/arisetiawan2003-alt/Project-Data-Analys/blob/main/project-Analysis-Sales-SQL/belajar%20sql.sql) *Klik Link Untuk Melihat*
 ## Struktur Database SQL
 ![alt text](https://github.com/arisetiawan2003-alt/Project-Data-Analys/blob/main/project-Analysis-Sales-SQL/erd_ecommerce.png?raw=true)
 ## ERD (Entity Relationship Diagram) tersebut menggambarkan struktur database untuk proyek e-commerce yang telah dinormalisasi menjadi 6 tabel.
@@ -56,3 +57,4 @@
 ## Struktur Output PDF-Gmail
 
 [Business_Insight_Automated_Gmail](https://github.com/arisetiawan2003-alt/Project-Data-Analys/blob/main/Analysis-Report-Sales-Automated/laporan_penjualan_2026_03.pdf) *Klik link untuk melihat hasil laporannya*
+
